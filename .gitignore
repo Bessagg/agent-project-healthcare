@@ -178,4 +178,4 @@ cython_debug/
 
 !/.venv/
 !/.env.example
-!/.idea/
+!/.idea/".idea/" 
